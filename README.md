@@ -1,5 +1,7 @@
-# Curso Robot Framework: automatizando testes no padrão BDD
+## Curso Robot Framework: automatizando testes no padrão BDD
 <br/>
+
+Conteúdos do curso: <br/>
 - Construção de testes de caminho feliz com Robot Framework <br/>
 - Realização de testes de comunicação com usuário utilizando variáveis e keywords <br/>
 - Configuração de inicio e o fim de testes e aplicação de boas práticas de nomenclatura <br/>
